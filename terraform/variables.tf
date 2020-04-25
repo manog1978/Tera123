@@ -1,9 +1,9 @@
 variable "vsts-account" {
-  default = ""
+  default = "manohari1978"
 }
 
 variable "vsts-token" {
-  default = ""
+  default = "xmteoesxp54s5mhwf3ipitb4gp6ec7jmrfd5zau5clwha4z5tyea"
 }
 
 variable "vsts-agent" {
@@ -11,5 +11,5 @@ variable "vsts-agent" {
 }
 
 variable "vsts-pool" {
-  default = "ACI-Pool"
+  default = "test"
 }
